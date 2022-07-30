@@ -1,3 +1,3 @@
-# myWebsite
-## download this repository to deploy my personal website.
-### you can access my software project webpage from the navigation bar, or the button at the bottom of the bio page.
+# DooHee Lee's Website
+## To access my personal website, please download the .zip file and extract in a folder of your choice.
+### You can then access the projects I've completed in my course by going to the Software drop-down.
